@@ -1,0 +1,9 @@
+package Day1;
+
+import org.testng.annotations.Test;
+
+public class Login2 {
+  @Test
+  public void f() {
+  }
+}
